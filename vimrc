@@ -1,6 +1,6 @@
 filetype on
 syntax on
-colorscheme Tomorrow-Night
+colorscheme Tomorrow-Night-Bright
 
 "To get vim to open with a given size:
 set lines=43 columns=80
